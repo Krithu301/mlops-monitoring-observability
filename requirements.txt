@@ -1,0 +1,8 @@
+flask
+prometheus_client
+pandas
+scikit-learn
+matplotlib
+shap
+evidently
+mlflow
